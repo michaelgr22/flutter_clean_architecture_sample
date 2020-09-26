@@ -1,0 +1,45 @@
+name: flutter_clean_architecture_sample
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Service locator
+  get_it: ^5.0.1
+  # Bloc for state management
+  flutter_bloc: ^6.0.5
+  # Value equality
+  equatable: ^1.2.5
+  # Functional programming thingies
+  dartz: ^0.9.1
+  # Remote API
+  data_connection_checker: ^0.3.4
+  http: ^0.12.2
+  # Local cache
+  shared_preferences: ^0.5.12
+  # Mockito
+  mockito: ^4.1.1
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
