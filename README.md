@@ -2,11 +2,11 @@
 This is a sample project for a flutter app using the Clean Architecture Principles by Uncle Bob.
 ![Uncle Bob's Clean Architecture Proposal](https://i.ibb.co/7Jwvmgx/clean-architecture-uncle-bob.png)
 
-Class Diagramm:
+### Class Diagramm:
 ![Class Diagramm](https://i.ibb.co/XZX2bh4/flutter-tdd-class-diagramm-200.jpg)
 
 
-Reference:
+### Reference:
 
 [Playlist - Reso Coder](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
 
