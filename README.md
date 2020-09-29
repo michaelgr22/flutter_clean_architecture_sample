@@ -2,7 +2,7 @@
 This is a sample project for a flutter app using the Clean Architecture Principles by Uncle Bob.
 ![Uncle Bob's Clean Architecture Proposal](https://i.ibb.co/7Jwvmgx/clean-architecture-uncle-bob.png)
 
-### Flow Chart
+### Flow Chart:
 ![Flow Chart](https://i.ibb.co/8Yvs7KD/Clean-Architecture-Flutter-Diagram.png)
 
 ### Class Diagramm:
