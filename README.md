@@ -9,7 +9,7 @@ This is a sample project for a flutter app using the Clean Architecture Principl
 ![Class Diagramm](https://i.ibb.co/XZX2bh4/flutter-tdd-class-diagramm-200.jpg)
 
 ### Folder Structure:
-![Class Diagramm](https://i.ibb.co/1nWp8jd/flutter-tdd-folder-structure.png)
+![Class Diagramm](https://i.ibb.co/0hysHLP/flutter-tdd-folder-structure.png)
 
 
 ### Reference:
